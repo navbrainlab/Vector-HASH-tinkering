@@ -1,6 +1,14 @@
 # Episodic and associative memory from spatial scaffolds in the hippocampus
 
-This is the official implementation of [Episodic and associative memory from spatial scaffolds in the hippocampus](https://www.nature.com/articles/s41586-024-08392-y). In this code we implement Vector-HaSH (Vector Hippocampal Scaffolded Heteroassociative Memory), a neocortical-entorhinal-hippocampal network that implements a high-capacity general associative memory, spatial memory and episodic memory.
+This is an **annotated implementation** of the official code for [Episodic and associative memory from spatial scaffolds in the hippocampus](https://www.nature.com/articles/s41586-024-08392-y Episodic and associative memory from spatial scaffolds in the hippocampus Episodic and associative memory from spatial scaffolds in the hippocampus).
+In this enhanced version, we provide detailed documentation for Vector-HaSH (Vector Hippocampal Scaffolded Heteroassociative Memory) – a neocortical-entorhinal-hippocampal network model for high-capacity associative, spatial, and episodic memory.
+
+Key Additions:
+🧠 **Comprehensive code annotations** explaining critical logic and mathematical operations
+📊 **Dataflow diagrams** visualizing architecture and tensor operations
+🔍 **Parameter specifications** with shape definitions and semantic analysis
+📖 **Markdown guides** bridging theoretical concepts to implementation details
+
 
 ## 📚 Documentation
 
@@ -22,7 +30,7 @@ This is the official implementation of [Episodic and associative memory from spa
 - **Analysis Tools**: `MTT.py`, `Plots_for_baseline_*.py`
 
 ## Citation
-If you use this code for your research, please cite our paper.
+If you use this code for your research, please cite the orginal paper.
 ```
 ﻿@Article{Chandra&Sharma2025,
 author={Chandra, Sarthak

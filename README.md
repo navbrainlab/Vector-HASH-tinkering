@@ -1,12 +1,17 @@
 # Episodic and associative memory from spatial scaffolds in the hippocampus
 
 This is an **annotated implementation** of the official code for [Episodic and associative memory from spatial scaffolds in the hippocampus](https://www.nature.com/articles/s41586-024-08392-y).
+
 In this enhanced version, we provide detailed documentation for Vector-HaSH (Vector Hippocampal Scaffolded Heteroassociative Memory) – a neocortical-entorhinal-hippocampal network model for high-capacity associative, spatial, and episodic memory.
 
 Key Additions:
+
 🧠 **Comprehensive code annotations** explaining critical logic and mathematical operations
+
 📊 **Dataflow diagrams** visualizing architecture and tensor operations
+
 🔍 **Parameter specifications** with shape definitions and semantic analysis
+
 📖 **Markdown guides** bridging theoretical concepts to implementation details
 
 
